@@ -77,16 +77,21 @@ acronym, abbr {
 
 
 h1 {
-	font-size: 14px;
+	font-size: 13px;
 	margin: 0 0 10px 0;
+	font-weight: bold;
 }
 h2 {
-	font-size: 15px;
+	font-size: 13px;
 	margin: 0 0 10px 0;
+		font-weight: bold;
+
 }
 h3 {
-	font-size: 14px;
+	font-size: 13px;
 	margin: 0 0 10px 0;
+		font-weight: bold;
+
 }
 
 
