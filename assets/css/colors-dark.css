@@ -6,7 +6,6 @@ html, body {
 a, a:visited, a:active {
 color: #073642;
 	border-bottom: 1px dotted #363A42;
-	font-weight: bold;
 }
 
 a:hover {
