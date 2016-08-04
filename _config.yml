@@ -1,5 +1,5 @@
 name: hyperlinked
-baseurl: /solar-theme-jekyll
+baseurl: hyperlinked.co
 description: over-caffeinated all the time
 
 permalink: /:year/:month/:day/:title/
