@@ -1,5 +1,5 @@
 name: hyperlinked
-baseurl: hyperlinked.co
+baseurl: http://hyperlinked.co
 description: over-caffeinated all the time
 
 permalink: /:year/:month/:day/:title/
