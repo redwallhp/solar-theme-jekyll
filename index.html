@@ -16,6 +16,8 @@ title: Solar Theme
 </a>
 			</h1>
 		{% else %}
+		<p class="meta"><span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span></p>
+
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
 
