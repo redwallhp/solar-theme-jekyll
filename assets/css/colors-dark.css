@@ -4,7 +4,7 @@ html, body {
 }
 
 a, a:visited, a:active {
-	color: #00BFFF;
+	color: #004A9E;
 	border-color: #073642;
 }
 
@@ -15,11 +15,11 @@ a:hover {
 }
 
 h1, h2, h3 {
-	color: #cb4b16;
+	color: #004A9E;
 }
 
 h1 a, h1 a:visited, h1 a:active {
-	color: #cb4b16;
+	color: #004A9E;
 }
 
 h1 a:hover {
