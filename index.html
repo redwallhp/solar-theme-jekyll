@@ -7,7 +7,8 @@ title: Solar Theme
 
 	<article class="post">
 
-		{% if post.link %}{{ post.date |date:"%B %-d, %Y" }}
+		{% if post.link %}<style="color:#ccc;">{ post.date |date:"%B %-d, %Y" }}</style>
+		
 			<h1>
 				<a href="{{ post.link }}">{{ post.title }}</a>
         <a class="anchor" href="{{ site.baseurl }}{{ post.url }}"><i class="fa fa-external-link" aria-hidden="true"></i>
