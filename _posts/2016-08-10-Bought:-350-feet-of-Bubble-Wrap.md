@@ -1,5 +1,5 @@
 ---
-title: Bought 350 feet of Bubble Wrap
+title:  350 feet of Bubble Wrap
 layout: post
 author: macseek
 permalink: /bought-350-feet-of-bubble-wrap/
@@ -7,7 +7,6 @@ link: http://amzn.to/2b8FonW
 source-id: 1GOlYMPA4uzBm5LIZCfdzerx8B9ji2fyyzERR9LbwlO0
 published: true
 ---
-
 ![image alt text]({{ site.url }}/public/0i3SJqLb5mQfre827J9hOQ_img_0.jpg)
 
 I think this will do me for a while. 
