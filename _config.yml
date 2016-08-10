@@ -1,6 +1,6 @@
 name: hyperlinked
 baseurl: http://hyperlinked.co
-description: over-caffeinated all the time
+description: too much coffee. too little time.
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
