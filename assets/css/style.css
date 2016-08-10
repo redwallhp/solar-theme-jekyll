@@ -205,6 +205,7 @@ img.center {
 	display: block;
 	text-align: center;
 	margin: 0 auto 1em auto;
+	width: 500px;
 }
 
 
