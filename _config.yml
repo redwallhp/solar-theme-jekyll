@@ -3,7 +3,7 @@ baseurl: http://hyperlinked.co
 description: too much coffee. too little time.
 
 permalink: /:year/:month/:day/:title/
-paginate: 10
+paginate: 5
 highlighter: rouge
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
