@@ -196,10 +196,16 @@ article .meta {
 img.left {
 	float: left;
 	margin: 0 1em 1em 0;
+		width: 500px;
+
 }
+
+
 img.right {
 	float: right;
 	margin: 0 0 1em 1em;
+		width: 500px;
+
 }
 img.center {
 	display: block;
