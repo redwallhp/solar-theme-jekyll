@@ -2,6 +2,7 @@
 title: choose your model
 permalink: models/
 profile: true
+layout: post
 ---
 
 
