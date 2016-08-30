@@ -4,7 +4,7 @@ title: "I’m Calling It: ‘Spotify And Pandora Are Toast’ | PixoBebo"
 link: http://pixobebo.com/2016/08/im-calling-it-spotify-and-pandora-are-toast/
 ---
 
-[I’m Calling It: ‘Spotify And Pandora Are Toast - PixoBebo](http://pixobebo.com/2016/08/im-calling-it-spotify-and-pandora-are-toast/)
+[Kate MacKenzie on Music Streaming](http://pixobebo.com/2016/08/im-calling-it-spotify-and-pandora-are-toast/)
 
 Kate Mackenzie on Music streaming: 
 
