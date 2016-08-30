@@ -1,5 +1,5 @@
 name: ramseeker
-baseurl: /
+baseurl: http://hyperlinked.co
 description: sponsored by
 
 permalink: /:year/:month/:day/:title/
