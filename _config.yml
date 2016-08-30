@@ -1,9 +1,9 @@
 name: ramseeker
-baseurl: http://hyperlinked.co
+baseurl: http://ramseeker.com
 description: sponsored by
 
 permalink: /:year/:month/:day/:title/
-paginate: 5
+paginate: 10
 highlighter: rouge
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
