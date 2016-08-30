@@ -1,6 +1,6 @@
-name: hyperlinked
+name: ramseeker
 baseurl: http://hyperlinked.co
-description: too much coffee. too little time.
+description: sponsored by
 
 permalink: /:year/:month/:day/:title/
 paginate: 5
