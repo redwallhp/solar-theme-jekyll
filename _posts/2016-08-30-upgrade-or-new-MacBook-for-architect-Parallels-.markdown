@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "upgrade or new MacBook (for architect, Parallels)?"
+title: "Upgrade or new MacBook (for architect, Parallels)?"
 link: https://www.macintouch.com/forums/showthread.php?tid=566&pid=3984#pid3984
 ---
 
