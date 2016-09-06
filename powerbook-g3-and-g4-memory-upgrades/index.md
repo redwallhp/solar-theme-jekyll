@@ -59,7 +59,7 @@ word_stats_cached:
 
 # PowerBook G3/G4 Memory Upgrade Configurator {#powerbook-g3g4-memory-upgrade-configurator}
 
-## PowerBook G3 {#powerbook-g3}
+## PowerBook G3 
 
 | Model                        | Processor  | Speed      | Year | Max RAM | Check Prices             |
 | ---------------------------- | ---------- | ---------- | ---- | ------- | ------------------------ |
@@ -68,7 +68,7 @@ word_stats_cached:
 | PowerBook G3 ‘Bronze’        | PowerPC G3 | 333-400Mhz | 1999 | 512MB   | [144Pin PC100 SODIMM][1] |
 | PowerBook G3 ‘Pismo’         | PowerPC G3 | 333-400Mhz | 2000 | 512MB   | [144Pin PC100 SODIMM][1] |
 
-## Titanium PowerBook G4 {#titanium-powerbook-g4}
+## Titanium PowerBook G4 
 
 | Model        | Processor  | Speed       | Year | Max RAM | Check Prices             |
 | ------------ | ---------- | ----------- | ---- | ------- | ------------------------ |
@@ -104,20 +104,7 @@ word_stats_cached:
 | PowerBook G4 17” | PowerPC G4 | 1.5Ghz  | 2004 | 2GB     | [200Pin PC2700 SODIMM][2] |
 | PowerBook G4 17” | PowerPC G4 | 1.67Ghz | 2005 | 2GB     | [200Pin PC2700 SODIMM][2] |
 
-## 144 Pin PC100 SO-DIMM PowerBook Memory Upgrades {#144-pin-pc100-so-dimm-powerbook-memory-upgrades}
 
 
-## 144 Pin PC133 SO-DIMM PowerBook Memory Upgrades {#144-pin-pc133-so-dimm-powerbook-memory-upgrades}
-
-
-
-## 200 Pin PC2100 DDR SO-DIMM PowerBook Memory Upgrades {#200-pin-pc2100-ddr-so-dimm-powerbook-memory-upgrades}
-
-[table id=23/]
-
-## 200 Pin PC2700 DDR SO-DIMM PowerBook Memory Upgrades {#200-pin-pc2700-ddr-so-dimm-powerbook-memory-upgrades}
-
-[table id=23/]
-
- [1]: http://www.ramseeker.com/144pin-pc100-so-dimm-memory-upgrade-prices/
- [2]: http://www.ramseeker.com/200-pin-pc2700-ddr-memory-upgrade-prices/
+ [1]: http://amzn.to/2bSwlst
+ [2]: http://amzn.to/2bSx7pF
