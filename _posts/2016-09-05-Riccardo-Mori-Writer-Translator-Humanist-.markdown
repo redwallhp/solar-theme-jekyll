@@ -9,4 +9,4 @@ Here's a site I like to visit from time to time. Riccardo seesm to be interested
 > Welcome to Riccardo Mori's main website & blog. Technology, the liberal arts, design, typography, user interfaces, translation and much more.
 
 
-[Riccardo Mori | Writer. Translator. Humanist.](http://morrick.me/)
+[Riccardo Mori - Writer. Translator. Humanist.](http://morrick.me/)
