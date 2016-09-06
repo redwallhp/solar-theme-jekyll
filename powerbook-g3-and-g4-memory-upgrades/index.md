@@ -57,7 +57,7 @@ word_stats_cached:
   </div>
 </div>
 
-# PowerBook G3/G4 Memory Upgrade Configurator {#powerbook-g3g4-memory-upgrade-configurator}
+# PowerBook G3/G4 Memory Upgrade Configurator 
 
 ## PowerBook G3 
 
@@ -78,7 +78,7 @@ word_stats_cached:
 | PowerBook G4 | PowerPC G4 | 667-800Mhz  | 2002 | 1GB     | [144Pin PC100 SODIMM][1] |
 | PowerBook G4 | PowerPC G4 | 867MHz-1GHz | 2002 | 1GB     | [144Pin PC100 SODIMM][1] |
 
-## 12 Inch Aluminum PowerBook G4 {#12-inch-aluminum-powerbook-g4}
+## 12 Inch Aluminum PowerBook G4 
 
 | Model            | Processor  | Speed   | Year | Max RAM | Check Prices              |
 | ---------------- | ---------- | ------- | ---- | ------- | ------------------------- |
@@ -87,7 +87,7 @@ word_stats_cached:
 | PowerBook G4 12” | PowerPC G4 | 1.33Ghz | 2004 | 1.25GB  | [200Pin PC2700 SODIMM][2] |
 | PowerBook G4 12” | PowerPC G4 | 1.5Ghz  | 2004 | 1.25GB  | [200Pin PC2700 SODIMM][2] |
 
-## 15 inch Aluminum PowerBook G4 {#15-inch-aluminum-powerbook-g4}
+## 15 inch Aluminum PowerBook G4 
 
 | Model            | Processor  | Speed       | Year | Max RAM | Check Prices              |
 | ---------------- | ---------- | ----------- | ---- | ------- | ------------------------- |
