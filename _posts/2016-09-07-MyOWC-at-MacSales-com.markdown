@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where to Buy RAM - Other World Computing
+title: Where to Buy RAM - Other World Computing
 date: 2016-09-07 13:40
 link: https://eshop.macsales.com/MyOWC/
 ---
