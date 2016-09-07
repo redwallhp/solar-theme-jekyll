@@ -1,5 +1,4 @@
 name: ramseeker
-baseurl: http://ramseeker.com
 description: sponsored by
 
 permalink: /:year/:month/:day/:title/
