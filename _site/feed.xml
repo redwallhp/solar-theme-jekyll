@@ -3,205 +3,211 @@
   <channel>
     <title></title>
     <description>sponsored by</description>
-    <link>http://hyperlinked.co/</link>
-    <atom:link href="http://hyperlinked.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 30 Aug 2016 14:23:20 -0400</pubDate>
-    <lastBuildDate>Tue, 30 Aug 2016 14:23:20 -0400</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 06 Sep 2016 21:39:32 -0400</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2016 21:39:32 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>upgrade or new MacBook (for architect, Parallels)?</title>
-        <description>&lt;p&gt;A pretty good discussion on getting more value out of an older MacBook Pro&lt;/p&gt;
+        <title>Used ThinkPad Buyers Guide</title>
+        <description>&lt;p&gt;I’ve had a few thinkpads over the past year and have pretty much tested every model (so far I’ve settled a ThinkPad T530) but if you’re sick of spending the Apple tax these are very nice computers for the price. $200 or even less can get you a very nice computer.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.macintouch.com/forums/showthread.php?tid=566&amp;amp;pid=3984#pid3984&quot;&gt;upgrade or new MacBook (for architect, Parallels)?&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Used ThinkPad Buyers Guide&lt;/p&gt;
 
-&lt;p&gt;Personally, I would go for the SSD and ram upgrade. I don’t need much storage space thanks to the cloud and could easily get by with a 129GB SSD and 4GB of RAM.&lt;/p&gt;
+  &lt;p&gt;Last updated 9 July 2016&lt;/p&gt;
 
-&lt;p&gt;In fact, I’ve done this. I have a 2008 iMac that runs perfectly with these upgrades.&lt;/p&gt;
+  &lt;p&gt;This Buyers guide covers ThinkPads new enough to fully support Windows 10 with all updates and costs under $500.&lt;/p&gt;
 
-&lt;p&gt;New Macs are expensive.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ktgee.net/post/49423737148/thinkpad-guide&quot;&gt;Used ThinkPad Buyers Guide&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/2016/08/30/upgrade-or-new-MacBook-for-architect-Parallels/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/2016/08/30/upgrade-or-new-MacBook-for-architect-Parallels/</guid>
+        <pubDate>Tue, 06 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/06/Used-ThinkPad-Buyers-Guide/</link>
+        <guid isPermaLink="true">/2016/09/06/Used-ThinkPad-Buyers-Guide/</guid>
         
         
       </item>
     
       <item>
-        <title>Sandisk 128GB iXpand SDIX30N-128G Flash Drive USB 3.0 Lightning r20MB/s w5MB/s</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.oempcworld.com/OEMPCworld-com/USB128GB-iXpand30.html&quot;&gt;Sandisk 128GB iXpand SDIX30N-128G Flash Drive USB 3.0 Lightning r20MB/s w5MB/s&lt;/a&gt;&lt;/p&gt;
+        <title>HacBook Elite</title>
+        <description>&lt;p&gt;Any bets on how fast the C+D letter arrives?&lt;/p&gt;
 
-&lt;p&gt;This is kind of a neat product: 
-&amp;gt; 128GB Sandisk iXpand USB 3.0 Flash Memory Drive with Lighting connector for iPhone cap design up to 20MB/s Read and 5MB/s Write for Mac and PC 5V self powered Plug and Play- Hot Swappable- external media- portable drive 59mm x 17mm x 13mm
+&lt;blockquote&gt;
+  &lt;p&gt;HacBook Elite ships with everything needed to start running the latest version of OS X. Once installed, OS X cold boots in 15 seconds and boots from sleep in 1 second.
+Perfect for developing iOS, Mac apps
+Dual-boot with Windows
+Comes with iTunes, iMessage, App Store, etc.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hacbook.com/&quot;&gt;HacBook Elite&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/06/HacBook-Elite/</link>
+        <guid isPermaLink="true">/2016/09/06/HacBook-Elite/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Macintosh History from the 1980s</title>
+        <description>&lt;p&gt;From a report on the MacWorld Expo in 1989: One of the most important developments&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Accelerator cards for the Mac, “believe it or not”. This was presumably one of the first time such cards &lt;em&gt;could&lt;/em&gt; be developed. Two prerequisites had been met: first, the debut of the “Open Mac” architecture of the Macintosh II a few years previously (March 1987), and secondly a processor advancement (from the 68020 that shipped in the II, to the 68030 in the IIx and SE/30.) Of course, previous closed Macs such as the Plus could be upgraded with special clip-on chips which boosted clock speeds, but 1989 was the first year that accelerators could be introduced based on the Apple-approved NuBus boards.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now we’ve come full circle and uprading any recent Mac is pretty much impossible once again&lt;/p&gt;
+
+&lt;p&gt;This is a fun site. If nothing else, vist it for the design.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://32by32.com/&quot;&gt;32by32&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/06/32by32/</link>
+        <guid isPermaLink="true">/2016/09/06/32by32/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Unix Stickers</title>
+        <description>&lt;p&gt;If you want to dress up your PC and get some pretty neat stickhters of your favorite linux distro than this is a great site. I’ve bought some stickers in the past from them and they were high quality.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The widest open stickers collection&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With more than 40 top brands including operating systems, programming languages and softwares
+Unixstickers is the best place to buy finely printed stickers to give your case the identity it deserves!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.unixstickers.com/&quot;&gt;Stickers, T-shirts, Mugs on UNIX &amp;amp; Programming&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/05/Stickers-T-shirts-Mugs-on-UNIX-Programming-unixstickers/</link>
+        <guid isPermaLink="true">/2016/09/05/Stickers-T-shirts-Mugs-on-UNIX-Programming-unixstickers/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Simplenote</title>
+        <description>&lt;p&gt;I keep on switching back and forth between simplenote and evernote. At times, evernote seems like too much when I all I want to do is to just cut and paste some code or text I want to remember later.&lt;/p&gt;
+
+&lt;p&gt;This is available for Linux, and that’s something that evernote is note so this maces this one of the better cross platform notes available. 
+&amp;gt; The simplest way to keep notes.
+&amp;gt; Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
+&amp;gt; 
 &amp;gt;&lt;/p&gt;
 
-&lt;p&gt;It’s got both a USB 3.0 port AND lightning port so you can easily transfer your data from your Mac to iOS device.&lt;/p&gt;
-
-&lt;p&gt;It’s kind of pricey though at about $100.00&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&quot;https://simplenote.com/&quot;&gt;Simplenote&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/2016/08/30/Sandisk-128GB-iXpand-SDIX30N-128G-Flash-Drive-USB-3-0-Lightning-r20MB-s-w5MB-s/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/2016/08/30/Sandisk-128GB-iXpand-SDIX30N-128G-Flash-Drive-USB-3-0-Lightning-r20MB-s-w5MB-s/</guid>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/05/Simplenote/</link>
+        <guid isPermaLink="true">/2016/09/05/Simplenote/</guid>
         
         
       </item>
     
       <item>
-        <title>Papa John’s Unveils Customizable Pizza Ordering App for Apple TV | Business Wire</title>
-        <description>&lt;p&gt;This is awesome.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.businesswire.com/news/home/20160830005692/en/Papa-John%E2%80%99s-Unveils-Customizable-Pizza-Ordering-App&quot;&gt;Papa John’s Unveils Customizable Pizza Ordering App for Apple TV&lt;/a&gt;&lt;/p&gt;
+        <title>Riccardo Mori | Writer. Translator. Humanist.</title>
+        <description>&lt;p&gt;Here’s a site I like to visit from time to time. Riccardo seesm to be interested in photography and older Macs and those are 2 things I am interested in as well so this is a site that gets read often.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The Papa John’s app for Apple TV is the first customizable pizza ordering platform, offering customers the choice to build their pizza topping by topping or select from past and saved orders. When ordering through the Apple TV app, customers automatically receive a 25 percent discount on their purchase—no separate code required.&lt;/p&gt;
+  &lt;p&gt;Welcome to Riccardo Mori’s main website &amp;amp; blog. Technology, the liberal arts, design, typography, user interfaces, translation and much more.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Now you don’t even have to get off the couch to order a pizza online.&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&quot;http://morrick.me/&quot;&gt;Riccardo Mori - Writer. Translator. Humanist.&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/2016/08/30/Papa-John-s-Unveils-Customizable-Pizza-Ordering-App-for-Apple-TV-Business-Wire/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/2016/08/30/Papa-John-s-Unveils-Customizable-Pizza-Ordering-App-for-Apple-TV-Business-Wire/</guid>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/05/Riccardo-Mori-Writer-Translator-Humanist/</link>
+        <guid isPermaLink="true">/2016/09/05/Riccardo-Mori-Writer-Translator-Humanist/</guid>
         
         
       </item>
     
       <item>
-        <title>Is Chrome OS the New Low End? | Low End Mac</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://lowendmac.com/2016/is-chrome-os-the-new-low-end/&quot;&gt;Is Chrome OS the New Low End?&lt;/a&gt;&lt;/p&gt;
+        <title>Refurbished Mac - Apple Certified - Apple</title>
+        <description>&lt;p&gt;Looking to save some money on a Mac? Buy a refurbished model from Apple directly. 
+Savings are about 15-25% off in most cases.&lt;/p&gt;
 
-&lt;p&gt;Dan Knight on Chrome OS:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.apple.com/shop/browse/home/specialdeals/mac&quot;&gt;Refurbished Mac - Apple Certified - Apple&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/05/Refurbished-Mac-Apple-Certified-Apple/</link>
+        <guid isPermaLink="true">/2016/09/05/Refurbished-Mac-Apple-Certified-Apple/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mac Specs, Prices, Answers and Comparison @ EveryMac.com, Est. 1996</title>
+        <description>&lt;p&gt;I have used this resource so many times I can’t count.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Chrome OS is aimed at the low end of the personal computing market. It’s designed so most of your work is done online using your browser with your documents stored on Google’s servers. That reduces the amount of storage a Chrome computer needs. And since 3D gaming isn’t part of the target market, manufacturers don’t need to use expensive GPUs to provide a good user experience.&lt;/p&gt;
+  &lt;p&gt;Established in 1996, EveryMac.com is the complete guide to every Mac, iPod, iPhone, iPad and Mac clone in the world, with technical specs, configuration details, system identifiers, performance benchmarks, and global pricing info.&lt;/p&gt;
+
+  &lt;p&gt;EveryMac.com provides comprehensive Mac specs, in-depth answers to hundreds of Mac questions, and detailed Mac identification info. It also has tools to compare Macs side-by-side, lookup Macs by serial number and other identifiers, and much more.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I have completely switched to Chrome OS and I don’t miss the Mac and it’s high prices.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.everymac.com/&quot;&gt;Mac Specs, Prices, Answers and Comparison @ EveryMac.com, Est. 1996&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/2016/08/30/Is-Chrome-OS-the-New-Low-End-Low-End-Mac/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/2016/08/30/Is-Chrome-OS-the-New-Low-End-Low-End-Mac/</guid>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/05/Mac-Specs-Prices-Answers-and-Comparison-EveryMac-com-Est-1996/</link>
+        <guid isPermaLink="true">/2016/09/05/Mac-Specs-Prices-Answers-and-Comparison-EveryMac-com-Est-1996/</guid>
         
         
       </item>
     
       <item>
-        <title>I’m Calling It: ‘Spotify And Pandora Are Toast’ | PixoBebo</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://pixobebo.com/2016/08/im-calling-it-spotify-and-pandora-are-toast/&quot;&gt;Kate MacKenzie on Music Streaming&lt;/a&gt;&lt;/p&gt;
+        <title>Jekyll • Simple, blog-aware, static sites - Transform your plain text into static websites and blogs</title>
+        <description>&lt;p&gt;I have recently switched this site over from Wordpress and I could not be happier with the Github Pages and Jekyll site.&lt;/p&gt;
+
+&lt;p&gt;It’s fast and free, and once you get your workflow sorted out - it’s even pretty easy.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Thanks to major competitors, including Google Play Music and Apple Music, the consolidation and pruning stage has begun. Spotify and Pandora are toast.&lt;/p&gt;
+  &lt;p&gt;Free hosting with GitHub Pages
+Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;She might be right. music streaming with ads might not be in our future. Want to stream music? Pay up.&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll • Simple, blog-aware, static sites - Transform your plain text into static websites and blogs&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/2016/08/30/I-m-Calling-It-Spotify-And-Pandora-Are-Toast-PixoBebo/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/2016/08/30/I-m-Calling-It-Spotify-And-Pandora-Are-Toast-PixoBebo/</guid>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/05/Jekyll-Simple-blog-aware-static-sites-Transform-your-plain-text-into-static-websites-and-blogs/</link>
+        <guid isPermaLink="true">/2016/09/05/Jekyll-Simple-blog-aware-static-sites-Transform-your-plain-text-into-static-websites-and-blogs/</guid>
         
         
       </item>
     
       <item>
-        <title>Back-to-School Specials on Used Macs, Mac Upgrades and More From OWC</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://eshop.macsales.com/shop/school/&quot;&gt;Back-to-School Specials on Used Macs, Mac Upgrades and More From OWC&lt;/a&gt;&lt;/p&gt;
+        <title>Sean Cleary&#39;s Duo Dock/Tick of Death Page</title>
+        <description>&lt;p&gt;I always had a soft spot for the Duo and back in the day could only afford the grayscale versions as the color was too rich for my blood. But, I did at one time own a duo dock and I always thought it was a great idea to dock your notebook to a bigger desktop when you got back to the office.&lt;/p&gt;
 
-&lt;p&gt;IF your’e going back to school, and need a Mac then this is a pretty good deal from OWC. 
-&amp;gt; Pre-Owned MacBook Air 
-&amp;gt; starting at $499.00
-&amp;gt; Fully tested &amp;amp; inspected by MacSales.com expert technicians
-&amp;gt; Detailed photos &amp;amp; description to show each Mac’s condition
-&amp;gt; 14 day money-back guarantee return policy&lt;/p&gt;
-
-&lt;p&gt;There’s more deals too, so be sure to hit the link.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/2016/08/30/Back-to-School-Specials-on-Used-Macs-Mac-Upgrades-and-More-From-OWC/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/2016/08/30/Back-to-School-Specials-on-Used-Macs-Mac-Upgrades-and-More-From-OWC/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Apple Events - Keynote September 2016 - Apple</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.apple.com/apple-events/september-2016/&quot;&gt;Apple Events - Keynote September 2016 - Apple&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The iPhone 7 hype is now full force.&lt;/p&gt;
+&lt;p&gt;But these older Duo docks tend to fail after a while:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;See you on the 7th.
-Join us here on September 7 at
-10 a.m. PDT to watch the keynote live.&lt;/p&gt;
+  &lt;p&gt;Typical Symptoms&lt;/p&gt;
+
+  &lt;p&gt;There is a periodic ticking from the dock, particularly after periods of being unplugged.
+This can become more frequent. In mild cases, the ticking will go away after the dock has been plugged in for an hour or two. In other cases, the dock ticks just after the Duo is ejected and may continue ticking for a while.
+Eventually, the dock becomes useless as it ticks instead of working. If the Duo is stuck inside, and won’t eject, you may need to take the lid off to get it out. To do that, thin screwdrivers will be needed to press on the tabs since the Duo is in the way. Or you can wait and hope the ticking goes away and the Dock comes back to life for proper ejection.
+Avoiding having the dock unplugged seems to postpone the inevitable degeneration to uselessness.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;The instructions on this page will get your old Duo dock up and running again:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sci.ccny.cuny.edu/~cleary/computers/duo.html&quot;&gt;Sean Cleary’s Duo Dock/Tick of Death Page&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/2016/08/30/Apple-Events-Keynote-September-2016-Apple/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/2016/08/30/Apple-Events-Keynote-September-2016-Apple/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Best Lenses for Sony e-mount</title>
-        <description>&lt;p&gt;Analog Senses has &lt;a href=&quot;http://www.analogsenses.com/2016/01/13/gear-guide-the-best-full-frame-lenses-for-the-sony-e-mount&quot;&gt;quite the guide to the best lenses for Sony’s e-mount.&lt;/a&gt; I’ve long given up on photography as the cost/reward ratio is too high with the former (also, smartphone cameras) but if you’re a Sony shooter, this is worth a look:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;But with so many new and shiny things to choose from, it can be hard to make the right choice for your needs. In this guide, we’ll go over the finest pieces of glass for the Full Frame E-mount system.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Sun, 28 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/the-best-lenses-for-sony-e-mount/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/the-best-lenses-for-sony-e-mount/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ben Brooks on Failing Often</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;I don’t know about you, but I’d much rather have someone running a company who has never lead a company to failure, than one who is on his sixth company because the other five burned to the fucking ground while he did auto-pilot burnouts in his Tesla.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The last line is the best I’ve read today.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 26 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/ben-brooks-on-failing-often/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/ben-brooks-on-failing-often/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>MacBook Pro 13 2.7GHz dual-core Intel Core i7 Memory Upgrades</title>
-        <description>&lt;p&gt;The MacBook Pro 13” 2.7GHz dual-core Intel Core i7 can be maxed out to &lt;a href=&quot;http://amzn.to/2aZ7cc2&quot;&gt; accept up to 16GB of ram&lt;/a&gt; and I suggest you do so. RAM is cheap and you can now buy 16GB ram for this MacBook Pro model &lt;a href=&quot;http://amzn.to/2aZ7cc2&quot;&gt;for under $100&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If 16GB is too much ram, or too much money then you might want to consider using just &lt;a href=&quot;http://amzn.to/2bA5ps4&quot;&gt;8GB&lt;/a&gt; but the price difference between 8GB and 16Gb ram isn’t really all that much and you will get much more value with maxing out the 13 inch MacBook Pro vs just using 8GB.&lt;/p&gt;
-
-&lt;h4 id=&quot;where-to-buy-ram-for-the-macbook-pro-13-27ghz-dual-core-intel-core-i7&quot;&gt;Where to Buy RAM for the MacBook Pro 13” 2.7GHz dual-core Intel Core i7&lt;/h4&gt;
-
-&lt;p&gt;There’s many places to buy ram, but if you’re shopping for Mac Memory I suggest you stick to these memory brands:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://amzn.to/2bccVIB&quot;&gt;Crucial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://amzn.to/2bcd4fi&quot;&gt;OWC&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://amzn.to/2bccVsr&quot;&gt;Corsair&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://memoryx.net&quot;&gt;MemoryX&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://oempcworld.com&quot;&gt;OEMPCWORLD&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 24 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://hyperlinked.co/macbook-pro-13-2.7ghz-dual-core-intel-core-i7-memory-upgrades/</link>
-        <guid isPermaLink="true">http://hyperlinked.co/macbook-pro-13-2.7ghz-dual-core-intel-core-i7-memory-upgrades/</guid>
+        <pubDate>Sun, 04 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/04/Sean-Cleary-s-Duo-Dock-Tick-of-Death-Page/</link>
+        <guid isPermaLink="true">/2016/09/04/Sean-Cleary-s-Duo-Dock-Tick-of-Death-Page/</guid>
         
         
       </item>
