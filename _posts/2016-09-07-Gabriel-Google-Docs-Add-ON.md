@@ -3,6 +3,7 @@ title: Gabriel Google Docs Add-ON
 layout: post
 author: macseek
 permalink: /gabriel-google-docs-add-on/
+link: http://thiscouldbejd.github.io/Gabriel/
 source-id: 11QeV2wUCbEExEpuLPldTAvs-bZ9IyP5jPIMhER7ADqQ
 published: true
 ---
