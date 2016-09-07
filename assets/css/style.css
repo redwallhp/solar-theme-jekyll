@@ -23,10 +23,14 @@ blockquote:before, blockquote:after, q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
+table th td{
 	border-collapse: collapse;
-	border-spacing: 0;
+	border-spacing: 5
+	padding: 5px;
+	 
 }
+
+ 
 
 
 
