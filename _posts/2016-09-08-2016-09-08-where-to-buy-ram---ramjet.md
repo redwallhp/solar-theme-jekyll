@@ -5,7 +5,7 @@ published: true
 link: https://www.macmemory.com/pages/about-ramjet
 ---
 
-[About Ramjet | Ramjet.com](https://www.macmemory.com/pages/about-ramjet)
+[Ramjet.com](https://www.macmemory.com/pages/about-ramjet)
 
 >As fellow Mac enthusiasts, we noticed a dearth of reliable upgrade products that meet or exceed Apple’s standards of quality and service.
 
