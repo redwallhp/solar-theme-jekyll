@@ -23,10 +23,14 @@ blockquote:before, blockquote:after, q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
+table th td{
 	border-collapse: collapse;
-	border-spacing: 0;
+	border-spacing: 5
+	padding: 5px;
+	 
 }
+
+ 
 
 
 
@@ -55,7 +59,7 @@ a, a:active, a:visited {
 	text-decoration: none;
 	border-bottom: 1px solid #839496;
 	padding-bottom: 2px;
-	font-weight:bold;
+	font-weight: bold;
 }
 a:hover {
 	background-color: #839496;
@@ -126,13 +130,13 @@ h3 {
 
 /*** Structure ***/
 #page {
-	width: 800px;
+	width: 600px;
 	margin: 0 auto;
 	position: relative;
 }
 
 #header {
-	width: 800px;
+	width: 600px; 
 	margin: 40px auto 50px auto;
 }
 #header h1 {
@@ -144,7 +148,7 @@ h3 {
 }
 
 #footer {
-	width: 800px;
+	width: 600px;
 	margin: 50px auto 20px auto;
 	padding-top: 10px;
 	font-size: 0.85em;
@@ -152,7 +156,7 @@ h3 {
 }
 
 #content {
-	width: 800px;
+	width: 600px;
 	margin: 0 auto;
 }
 
