@@ -17,7 +17,7 @@ ol, ul {
 	list-style: bullet;
 }
 blockquote, q {
-	quotes: none;
+	quotes: true;
 }
 blockquote:before, blockquote:after, q:before, q:after {
 	content: '';
