@@ -37,7 +37,7 @@ table th td{
 /*** Basics ***/
 
 nav.main-nav a.cta {
-	background: #073642;
+	background: #3E92CC;
 	color: #ffffff;
 	font-size: 22px;
 	font-weight: bold;
@@ -205,11 +205,12 @@ article img {
 	width: 100%;
 }
 
-article .meta {
+article .meta a {
 	padding-top: 6px;
 	font-size: 0.85em;
 	font-style: italic;
 	color: #B5B5B5;
+
 }
 
 img.left {
