@@ -1,6 +1,6 @@
 html, body {
-	background-color: #515151;
-	color: #ffffff;
+	background-color: #ffffff;
+	color: #515151;
 } 
 
 a, a:visited, a:active {
@@ -15,11 +15,11 @@ a:hover {
 }
 
 h1, h2, h3 {
-	color: #073642;
+	color: #13293D;
 }
 
 h1 a, h1 a:visited, h1 a:active {
-	color: #171D1C;
+	color: #13293D;
 }
 
 h1 a:hover {
