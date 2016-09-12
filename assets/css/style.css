@@ -162,10 +162,10 @@ h3 {
 
 #sidebar {
 	position: absolute;
-	text-align: center;
+	text-align: left;
 	width: 260px;
 	top: 0;
-	right: -300px;
+	left: -300px;
 	    padding-right: 10px;
 
 }
