@@ -162,11 +162,17 @@ h3 {
 
 #sidebar {
 	position: absolute;
-	text-align: center;
+	text-align: left;
 	width: 260px;
 	top: 0;
+<<<<<<< HEAD
 	right: -300px;
 margin-right: 10px;ter
+=======
+	left: -300px;
+	    padding-right: 10px;
+
+>>>>>>> fe9b7c9de26f976c427cbb07bf0349d557a1519d
 }
 
 #sidebar li {
