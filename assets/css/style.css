@@ -39,13 +39,14 @@ table th td{
 nav.main-nav a.cta {
 	background: #3E92CC;
 	color: #ffffff;
-	font-size: 22px;
+	font-size: 24px;
 	font-weight: bold;
 	padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
-        border-radius: 15px;
+
+        border-radius: 5px;
 
 }
 
