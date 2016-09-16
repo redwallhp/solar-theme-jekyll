@@ -1,5 +1,5 @@
 name: ramseeker
-description: sponsored by
+description: by Jim Fitzsimmons
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
