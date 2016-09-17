@@ -14,13 +14,13 @@ In my effort continue optimizing the site to the bare minimum required, I though
 
 ## The Results
 
-![now this is fast](https://ramseeker.com/images/Screenshot%20from%202016-09-16%2009-01-54.png)
+![now this is fast](/images/Screenshot%20from%202016-09-16%2009-01-54.png)
 
 This site now loads **in about half a second**, and has a pagespeed score of 100%. It's kind of hard to beat 100 percent.
 
 Compare this to a very popular tech blog: 
 
-![much slower website](https://ramseeker.com/images/Screenshot%20from%202016-09-16%2010-50-56.png)
+![much slower website](/images/Screenshot%20from%202016-09-16%2010-50-56.png)
 
 With a heavy design and ad trackers galore, this site takes **almost ten seconds to load**! Who has time to wait ten seconds?
 
@@ -44,7 +44,7 @@ The only reason you really need analytics and stats is when you're trying to sel
 
 ## What Cookies?
 
-![enter image description here](https://ramseeker.com/images/Screenshot%20from%202016-09-16%2018-06-38.png)
+![enter image description here](/images/Screenshot%20from%202016-09-16%2018-06-38.png)
 
 My cookie policy? I don't have one because I **don't collect any cookies whatsoever**
 
