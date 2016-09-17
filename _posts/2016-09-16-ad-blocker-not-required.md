@@ -5,7 +5,7 @@ published: true
 ---
 
 
-I have made some significant changes in recent times to this site.
+I have made some pretty significant changes in recent times to this site.
 
 Back in [April](https://ramseeker.com/2016/04/19/switched-to-jekyll-from-wordpress/), I moved [from expensive wordpress hosting](http://www.pagely.com) to [free hosting](pages.github.com) for this site and moved from using the much bloated wordpresss to [something a lot simpler](http://jekyllrb.com).
 
