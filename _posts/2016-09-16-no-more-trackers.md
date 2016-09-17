@@ -1,5 +1,5 @@
 ---
-title: ad blocker not required
+title: Ad Blocker Not Required
 layout: post
 published: true
 ---
