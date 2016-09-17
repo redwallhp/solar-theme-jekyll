@@ -54,13 +54,7 @@ word_stats_cached:
 | Quadra 900   | 68040     | 25MHz | 1991 | 256mb   | [30 Pin SIMMS][2] |
 | Quadra 950   | 68040     | 33MHz | 1992 | 256mb   | [30 Pin SIMMS][2] |
 
-## 30 Pin SIMM Memory Upgrades for Apple Quadra Models {#30-pin-simm-memory-upgrades-for-apple-quadra-models}
 
-{% include 25-72-Pin-SIMMS-2015-10-17.html %}
-
-## 72 Pin SIMM Memory Upgrades for Apple Quadra Models {#72-pin-simm-memory-upgrades-for-apple-quadra-models}
-
-{% include 25-72-Pin-SIMMS-2015-10-17.html %}
 
  [1]: http://www.ramseeker.com/72-pin-simm-memory-upgrade-prices/
  [2]: http://www.ramseeker.com/30-pin-simms/
