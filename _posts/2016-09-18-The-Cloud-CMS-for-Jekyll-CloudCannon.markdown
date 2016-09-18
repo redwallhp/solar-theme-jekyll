@@ -14,4 +14,4 @@ This looks pretty neat if you want to quickly blog with jekyll and want a wysisy
 > 
 > Non-developers update content visually using the CloudCannon inline editor.
 
-[The Cloud CMS for Jekyll | CloudCannon](http://cloudcannon.com/)
+[The Cloud CMS for Jekyll](http://cloudcannon.com/)
