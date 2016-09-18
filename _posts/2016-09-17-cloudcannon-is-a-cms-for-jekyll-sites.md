@@ -5,7 +5,7 @@ title: Cloudcannon is a CMS for Jekyll Sites
 ---
 
 
-this looks pretty neat: a [CMS for Jekyll.](http://cloudcannon.com) If you want a **free** site to host your pages, create one on [github pages](pages.githbub.com)&nbsp;and then when you hit published the content gets built and pushed to your github pages site easily
+this looks pretty neat: a [CMS for Jekyll.](http://cloudcannon.com) If you want a **free** site to host your [jekyll](http://jekyllrb.com) pages, create one on [github pages](pages.githbub.com)&nbsp;and then when you hit published the content gets built and pushed to your github pages site easily
 
 > The best of both worlds
 > <br>Developers and non-developers easily collaborate on sites without stepping on each other’s toes.
