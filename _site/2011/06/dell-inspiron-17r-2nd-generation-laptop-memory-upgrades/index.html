@@ -12,7 +12,7 @@
   
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" >
 
-
+<link href="/assets/css/style.css" rel="stylesheet" />
 
 
 
@@ -153,16 +153,19 @@ The <strong>second generation of Dells</strong> use either <strong>intel i3, Int
   </footer>
 
 
- <script>
-    var cb = function() {
-    var l = document.createElement('link'); l.rel = 'stylesheet';
-    l.href = 'http://ramseeker.com/assets/css/style.css';
-    var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); };
-    var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-              webkitRequestAnimationFrame || msRequestAnimationFrame;
-    if (raf) raf(cb);
-    else window.addEventListener('load', cb);
-</script>
+ // to defer the loading of stylesheets
+        // just add it right before the </body> tag
+        // and before any javaScript file inclusion (for performance)  
+        function loadStyleSheet(src){
+            if (document.createStyleSheet) document.createStyleSheet(src);
+            else {
+                var stylesheet = document.createElement('link');
+                stylesheet.href = src;
+                stylesheet.rel = 'stylesheet';
+                stylesheet.type = 'text/css';
+                document.getElementsByTagName('head')[0].appendChild(stylesheet);
+            }
+        }
 
 </body>
 </html>
