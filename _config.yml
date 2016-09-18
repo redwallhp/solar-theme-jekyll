@@ -4,7 +4,11 @@ description: by Jim Fitzsimmons
 permalink: /:year/:month/:day/:title/
 paginate: 100
 highlighter: rouge
-
 gems: [jekyll-paginate]
+
+
+ 
+
+
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
