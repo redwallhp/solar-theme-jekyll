@@ -13,7 +13,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" >
 
 <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
+
 
 
 
@@ -148,7 +148,19 @@ Android based smartphone lineup.</p>
   </footer>
 
 
-
+ // to defer the loading of stylesheets
+        // just add it right before the </body> tag
+        // and before any javaScript file inclusion (for performance)  
+        function loadStyleSheet(src){
+            if (document.createStyleSheet) document.createStyleSheet(src);
+            else {
+                var stylesheet = document.createElement('link');
+                stylesheet.href = src;
+                stylesheet.rel = 'stylesheet';
+                stylesheet.type = 'text/css';
+                document.getElementsByTagName('head')[0].appendChild(stylesheet);
+            }
+        }
 
 </body>
 </html>
