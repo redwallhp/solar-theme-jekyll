@@ -11,7 +11,7 @@ title: ramseeker
 
 		
 			<h1>
-		<a href="{{ post.link }}">{{ post.title }}  <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+		<B><a href="{{ post.link }}">{{ post.title }}  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></b>
 
 </a>
 
@@ -20,7 +20,7 @@ title: ramseeker
 		{% else %}
 		<p class="meta"><span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span></p>
 
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+   <B> <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1></B>
 		{% endif %}
 
 <br>
