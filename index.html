@@ -4,7 +4,7 @@ title: ramseeker
 ---
 <div id=""><HR>
 
-	{% for post in site.posts %}
+	{% for post in paginator.posts %}
 	<p>{{ post.date |date:"%B %-d, %Y" }} | <a href="{{ post.url }}">{{ post.title }}</a></p>
 
 	{% endfor %}
