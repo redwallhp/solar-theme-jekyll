@@ -5,37 +5,57 @@
     <description>by Jim Fitzsimmons</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 16 Sep 2016 21:13:56 -0400</pubDate>
-    <lastBuildDate>Fri, 16 Sep 2016 21:13:56 -0400</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2016 23:18:05 -0400</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2016 23:18:05 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Ad Blocker Not Required</title>
-        <description>&lt;p&gt;I have made some significant changes in recent times to this site.&lt;/p&gt;
+        <title>Cloudcannon</title>
+        <description>&lt;p&gt;this looks &lt;strong&gt;really&lt;/strong&gt; neat: a &lt;a href=&quot;http://cloudcannon.com&quot;&gt;CMS for Jekyll.&lt;/a&gt; If you want a free site to host your pages, create one on &lt;a href=&quot;pages.githbub.com&quot;&gt;github pages&lt;/a&gt; and then when you hit published the content gets build and pushed to your github pages site easily&lt;/p&gt;
 
-&lt;p&gt;Back in &lt;a href=&quot;https://ramseeker.com/2016/04/19/switched-to-jekyll-from-wordpress/&quot;&gt;April&lt;/a&gt;, I moved &lt;a href=&quot;http://www.pagely.com&quot;&gt;from expensive wordpress hosting&lt;/a&gt; to &lt;a href=&quot;pages.github.com&quot;&gt;free hosting&lt;/a&gt; for this site and moved from using the much bloated wordpresss to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;something a lot simpler&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The best of both worlds
+&lt;br /&gt;Developers and non-developers easily collaborate on sites without stepping on each other’s toes.&lt;/p&gt;
+
+  &lt;p&gt;Developers have complete control over the source code and simply build static or Jekyll websites.&lt;/p&gt;
+
+  &lt;p&gt;Non-developers update content visually using the CloudCannon inline editor.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 17 Sep 2016 00:00:00 -0400</pubDate>
+        <link>/2016/09/17/cloudcannon/</link>
+        <guid isPermaLink="true">/2016/09/17/cloudcannon/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ad Blocker Not Required</title>
+        <description>&lt;p&gt;I have made some &lt;strong&gt;pretty significant&lt;/strong&gt; &lt;strong&gt;changes&lt;/strong&gt; in recent times to this site.&lt;/p&gt;
+
+&lt;p&gt;Back in &lt;a href=&quot;https://ramseeker.com/2016/04/19/switched-to-jekyll-from-wordpress/&quot;&gt;April&lt;/a&gt;, I moved &lt;a href=&quot;http://www.pagely.com&quot;&gt;from expensive wordpress hosting&lt;/a&gt; to &lt;a href=&quot;pages.github.com&quot;&gt;free hosting&lt;/a&gt; for this site and moved from using the much bloated wordpresss to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;something a lot simpler&lt;/a&gt; for my writing and blogging needs.&lt;/p&gt;
 
 &lt;p&gt;Then just this past week I went a bit further and figured out how to make this site secure with https://ramseeker.com instead of just using http://ramseeker.com. I don’t know why you would really need to have this site secure, as I’m not accepting credit cards or any sensitive data, but Google is giving secure sites a bit of an edge in the search results, and when it comes to SEO every little bit counts.&lt;/p&gt;
 
-&lt;p&gt;In my effort continue optimizing the site to the bare minimum required, I thought that what the heck, I might as well &lt;strong&gt;disable all the trackers&lt;/strong&gt; too.&lt;/p&gt;
+&lt;p&gt;In my effort continue optimizing the site to the bare minimum required, I thought what the heck, I might as well &lt;strong&gt;disable all the trackers&lt;/strong&gt; too.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-results&quot;&gt;The Results&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ramseeker.com/images/Screenshot%20from%202016-09-16%2009-01-54.png&quot; alt=&quot;now this is fast&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Screenshot%20from%202016-09-16%2009-01-54.png&quot; alt=&quot;now this is fast&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This site now loads &lt;strong&gt;in about half a second&lt;/strong&gt;, and has a pagespeed score of 100%. It’s kind of hard to beat 100 percent.&lt;/p&gt;
 
 &lt;p&gt;Compare this to a very popular tech blog:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ramseeker.com/images/Screenshot%20from%202016-09-16%2010-50-56.png&quot; alt=&quot;much slower website&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Screenshot%20from%202016-09-16%2010-50-56.png&quot; alt=&quot;much slower website&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;With a heavy design and ad trackers galore, this site takes &lt;strong&gt;almost ten seconds to load&lt;/strong&gt;! Who has time to wait ten seconds?&lt;/p&gt;
 
 &lt;h2 id=&quot;ads-are-out-of-control&quot;&gt;Ads Are Out of Control&lt;/h2&gt;
 
-&lt;p&gt;I’m old enough to remember a pre-Google internet and pre-adsense and ad-tracker web, and I have to tell you - it was glorious. Maybe because we were paying much more for our internet access, or our computers were much slower and didn’t display in as many colors and resolution and perhaps I’m remembering though rose colored glasses, but it seems to me the current web has become one bloated mess.  I don’t need to have ads pushed down my throat all the time just to get to the content.&lt;/p&gt;
+&lt;p&gt;I’m old enough to remember a pre-Google internet and pre-adsense and ad-tracker web, and I have to tell you - it was glorious. Maybe because we were paying much more for our internet access, or our computers were much slower and didn’t display in as many colors and resolution and perhaps I’m remembering though rose colored glasses, but it seems to me the current web has become one bloated mess. I don’t need to have ads pushed down my throat all the time just to get to the content.&lt;/p&gt;
 
-&lt;p&gt;I know that ads on the web are inevitable, and hosting costs money and time is valuable and publishers need  to be paid, but some have gotten awful greedy and have over-filled their sites with more and more ads.&lt;/p&gt;
+&lt;p&gt;I know that ads on the web are inevitable, and hosting costs money and time is valuable and publishers need to be paid, but some have gotten awful greedy and have over-filled their sites with more and more ads.&lt;/p&gt;
 
 &lt;h2 id=&quot;say-goodbye-to-ad-trackers&quot;&gt;Say GoodBye to Ad Trackers&lt;/h2&gt;
 
@@ -51,18 +71,17 @@
 
 &lt;h2 id=&quot;what-cookies&quot;&gt;What Cookies?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ramseeker.com/images/Screenshot%20from%202016-09-16%2018-06-38.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Screenshot%20from%202016-09-16%2018-06-38.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My cookie policy? I don’t have one because I &lt;strong&gt;don’t collect any cookies whatsoever&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;I don’t think I can get this site any more secure or simpler and easy to read, and &lt;strong&gt;I could care less about your viewing habits&lt;/strong&gt;. You can be sure I will have no idea that you visited by using a tracker.  I don’t set cookies or track you in any way.&lt;/p&gt;
-
+&lt;p&gt;I don’t think I can get this site any more secure or simpler and easy to read, and &lt;strong&gt;I could care less about your viewing habits&lt;/strong&gt;. You can be sure I will have no idea that you visited by using a tracker. I don’t set cookies or track you in any way.&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Sep 2016 00:00:00 -0400</pubDate>
-        <link>/2016/09/16/no-more-trackers/</link>
-        <guid isPermaLink="true">/2016/09/16/no-more-trackers/</guid>
+        <link>/2016/09/16/ad-blocker-not-required/</link>
+        <guid isPermaLink="true">/2016/09/16/ad-blocker-not-required/</guid>
         
         
       </item>
@@ -202,30 +221,6 @@
         <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
         <link>/2016/09/08/2016-09-08-where-to-buy-ram-data-memory-systems/</link>
         <guid isPermaLink="true">/2016/09/08/2016-09-08-where-to-buy-ram-data-memory-systems/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Where to Buy Memory -Trans Intl</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.transintl.com/&quot;&gt;Home page&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;HOME/ ABOUT US
-Founded in 1988 Trans International is known for Maximizing Macs &amp;amp; PCs. Being an Apple Hardware developer for years, specializing in MemoryUpgrades and Quality Storage Solutions first to the users in the market,Consistently breaking limitation barriers.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Trans International has always maintained a strong reputation among leading manufacturers, resellers ,retailers and power users for designing, developing, producing and supporting products that anticipates the current and future needs of the ever changing computer Industry.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Maximizing Macs with tested quality Memory and Storage Solutions with Matchless Service and Support.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
-        <link>/2016/09/08/2016-09-08-where-to-buy-memory-trans-intl/</link>
-        <guid isPermaLink="true">/2016/09/08/2016-09-08-where-to-buy-memory-trans-intl/</guid>
         
         
       </item>
