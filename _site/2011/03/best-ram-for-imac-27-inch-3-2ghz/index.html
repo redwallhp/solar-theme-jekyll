@@ -12,7 +12,7 @@
   
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" >
 
-<link href="/assets/css/style.css" rel="stylesheet" />
+
 
 
 
@@ -153,7 +153,16 @@ Once you have bought the RAM for iMac 27 inch 3.2GHz, it’s really easy to inst
   </footer>
 
 
-
+ <script>
+    var cb = function() {
+    var l = document.createElement('link'); l.rel = 'stylesheet';
+    l.href = 'http://ramseeker.com/assets/css/style.css';
+    var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); };
+    var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+              webkitRequestAnimationFrame || msRequestAnimationFrame;
+    if (raf) raf(cb);
+    else window.addEventListener('load', cb);
+</script>
 
 </body>
 </html>
