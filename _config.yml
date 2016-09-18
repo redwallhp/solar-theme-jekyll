@@ -2,7 +2,7 @@ name: Jim
 description: by Jim Fitzsimmons
 
 permalink: /:year/:month/:day/:title/
-paginate: 100
+paginate: 10
 highlighter: rouge
 gems: [jekyll-paginate]
 
