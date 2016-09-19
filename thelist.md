@@ -28,8 +28,14 @@ I have categorized it into two categories as you see below. If you have any sugg
 - [MemoryX](http://memoryx.net) - The Earth's Biggest Memory Store
 - [Apple](http://apple.com) - the mother ship
 - [The Brooks Review](http://brooksreview.net) - personal blog of Ben Brooks
-
-
+- [DealMac](http://www.dealmac.com) - deals on Macs
+- [refurb.me](http://rerfurb.me) - buy a refurbished Apple product
+- [macprices](http://macprices.net) - compare prices on new and refurbished Macs
+- [Data Memory Systems](http://datamem.com) - apple and pc memory upgrade vendor
+- [shawn blanc](http://shawnblanc.net) - personal blog of shawn blanc
+- [john.do](http://john.do) - personal blog of John Saddington
+- 
+- 
 ## Software
 
 - [caret](http://caret.io) - markdown editor for mac/win/linux 
