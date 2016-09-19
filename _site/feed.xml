@@ -5,9 +5,15 @@
     <description>by Jim Fitzsimmons</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Sun, 18 Sep 2016 17:49:28 -0400</pubDate>
     <lastBuildDate>Sun, 18 Sep 2016 17:49:28 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+=======
+    <pubDate>Sun, 18 Sep 2016 20:16:52 -0400</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2016 20:16:52 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+>>>>>>> dc376877ddb9f19d13e430ad790e7d00306c50d2
     
       <item>
         <title>Caret is a  Premium Markdown Editor for Mac - Windows - Linux</title>
@@ -196,11 +202,9 @@ Developers and non-developers easily collaborate on sites without stepping on ea
     
       <item>
         <title>PeakHour 3, beautiful network monitoring and reporting for your Mac</title>
-        <description>&lt;p&gt;This looks interesting if you need to keep track of a network on a Mac&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Monitor your Internet, WiFi and network performance, right from your menu bar.&lt;/p&gt;
-
-&lt;/blockquote&gt;
+        <description>&lt;p&gt;This looks interesting if you need to keep track of a network on a Mac
+&amp;gt; Monitor your Internet, WiFi and network performance, right from your menu bar.
+&amp;gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://peakhourapp.com/&quot;&gt;PeakHour 3, beautiful network monitoring and reporting for your Mac&lt;/a&gt;&lt;/p&gt;
 </description>
