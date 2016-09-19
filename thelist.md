@@ -27,6 +27,7 @@ I have categorized it into two categories as you see below. If you have any sugg
 - [droid life](http://www.droid-life.com) - Android phone reviews and news
 - [MemoryX](http://memoryx.net) - The Earth's Biggest Memory Store
 - [Apple](http://apple.com) - the mother ship
+- [The Brooks Review](http://brooksreview.net) - personal blog of Ben Brooks
 
 
 ## Software
