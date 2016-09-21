@@ -4,6 +4,8 @@ layout: post
 published: true
 ---
 
+<i class="fa fa-bookmark" aria-hidden="true"></i>
+
 
 This is the list. It's a list of links to stuff I find interesting and want to keep track of for later reference. 
 
@@ -19,7 +21,7 @@ I have categorized it into two categories as you see below. If you have any sugg
 - [pixobebo](http://pixobebo.com) - Kate MacKenzie on Apple
 - [macsurfer](http://macsurfer.com) - apple news and links
 - [9 to 5 Mac](http://9to5mac.com) - apple news and more.
-- [daring fireball](daringfireball.net) - John Gruber's linked list
+- [daring fireball](http://daringfireball.net) - John Gruber's linked list
 - [macstories](http://macstories.net) - apple news and opinion
 - [the loop](http://loopinsight.com) - apple news and links
 - [Other World Computing](http://macsales.com) - Apple upgrades and accessories 
@@ -34,6 +36,8 @@ I have categorized it into two categories as you see below. If you have any sugg
 - [Data Memory Systems](http://datamem.com) - apple and pc memory upgrade vendor
 - [shawn blanc](http://shawnblanc.net) - personal blog of shawn blanc
 - [john.do](http://john.do) - personal blog of John Saddington
+- [G5 Center](http://g5center.net) - PowerMac G5 Resource
+- [Riccardo Mori](http://www.morrick.me)
 - 
 - 
 ## Software
@@ -46,6 +50,9 @@ I have categorized it into two categories as you see below. If you have any sugg
 - [focus writer](http://www.focuswriter.com) - distraction free text editor
 - [simplenote](http://simplenote.com) - a simple not all for all platfor
 - [desk](http://desk.pm) - notetaking and blogging app for Mac
+- [Marxico](http://marxi.co) - markdown writing tool with evernote sync
+
+
 - 
 
 
