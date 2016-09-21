@@ -5,7 +5,7 @@ date: 2016-09-21 08:53
 link: http://arstechnica.com/apple/2016/09/macos-10-12-sierra-the-ars-technica-review/
 ---
 
-[macOS 10.12 Sierra: The Ars Technica review | Ars Technica](http://arstechnica.com/apple/2016/09/macos-10-12-sierra-the-ars-technica-review/)
+[macOS 10.12 Sierra Ars Technica review ](http://arstechnica.com/apple/2016/09/macos-10-12-sierra-the-ars-technica-review/)
 
 Ars Technica's review of Apple's latest OS. It's worth the click for the featured image alone. 
 
