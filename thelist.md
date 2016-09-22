@@ -37,9 +37,10 @@ I have categorized it into two categories as you see below. If you have any sugg
 - [shawn blanc](http://shawnblanc.net) - personal blog of shawn blanc
 - [john.do](http://john.do) - personal blog of John Saddington
 - [G5 Center](http://g5center.net) - PowerMac G5 Resource
-- [Riccardo Mori](http://www.morrick.me)
-- 
-- 
+- [Riccardo Mori](http://www.morrick.me) - Personal Blog about Mac and Technology
+- [Spotify](http://play.spotify.com) - spotify web player
+- [distrowatch](http://distrowatch.com) - Linux OS tracker
+
 ## Software
 
 - [caret](http://caret.io) - markdown editor for mac/win/linux 
@@ -51,8 +52,5 @@ I have categorized it into two categories as you see below. If you have any sugg
 - [simplenote](http://simplenote.com) - a simple not all for all platfor
 - [desk](http://desk.pm) - notetaking and blogging app for Mac
 - [Marxico](http://marxi.co) - markdown writing tool with evernote sync
-
-
-- 
-
+- [Google Play Music](http://play.google.com/music) - Google's streaming music site
 

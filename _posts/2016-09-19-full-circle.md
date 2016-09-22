@@ -6,7 +6,7 @@ published: true
 
 Sometimes, life is funny and you find yourself back from where you started. Such is the case with ramseeker. 
 
-When I started ramseeker, it was hosted on my old domain - [macseek.com](http://www.macseek.com) - as this was really just a personal blog or hobby site to **write about whatever I wanted** and in the early days I was known as **'ramseeker on macseek.com'**  - quite the mouthful. 
+When I started ramseeker the site was hosted on my old domain - [macseek.com](http://www.macseek.com) - as this was really just a personal blog or hobby site to **write about whatever I wanted** and in the early days I was known as **'ramseeker on macseek.com'**  - quite the mouthful. 
 
 So.....back in the days of $35.00 domain name registration, I coughed up the dough to buy ramseeker.com as my domain name as more and more were coming for the ram prices and less and less were coming for my content. 
 
