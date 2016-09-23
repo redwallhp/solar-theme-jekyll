@@ -5,9 +5,25 @@
     <description>by Jim Fitzsimmons</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 21 Sep 2016 22:59:49 -0400</pubDate>
-    <lastBuildDate>Wed, 21 Sep 2016 22:59:49 -0400</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2016 12:39:33 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 12:39:33 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Hosted by Pubstorm</title>
+        <description>&lt;p&gt;Just a quick note that I’m trying out a new host today: &lt;a href=&quot;https://www.pubstorm.com/&quot;&gt;Pubstorm&lt;/a&gt;. I was serving from github pages and that was just fine, but Pubstorm allows me not to worry to much about all the confusing git stuff.&lt;/p&gt;
+
+&lt;p&gt;All I have to do is fire up a terminal, and enter ‘storm publish’. No more commits or pull and push errors I keep on seeming to have.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure if I will stay here, but it’s &lt;strong&gt;free hosting&lt;/strong&gt; same as github pages and it seems to be a bit faster too.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+        <link>/hosted-by-pubstorm/</link>
+        <guid isPermaLink="true">/hosted-by-pubstorm/</guid>
+        
+        
+      </item>
     
       <item>
         <title>macOS 10.12 Sierra Ars Technica review</title>
@@ -20,7 +36,7 @@
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Wed, 21 Sep 2016 08:53:00 -0400</pubDate>
+        <pubDate>Wed, 21 Sep 2016 08:53:00 +0000</pubDate>
         <link>/2016/09/21/macOS-10-12-Sierra-The-Ars-Technica-review-Ars-Technica/</link>
         <guid isPermaLink="true">/2016/09/21/macOS-10-12-Sierra-The-Ars-Technica-review-Ars-Technica/</guid>
         
@@ -38,7 +54,7 @@
 
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Wed, 21 Sep 2016 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
         <link>/2016/09/21/iOS-10-The-MacStories-Review-MacStories/</link>
         <guid isPermaLink="true">/2016/09/21/iOS-10-The-MacStories-Review-MacStories/</guid>
         
@@ -55,7 +71,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://support.apple.com/en-us/HT201624&quot;&gt;Vintage and obsolete products - Apple Support&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 19 Sep 2016 23:17:00 -0400</pubDate>
+        <pubDate>Mon, 19 Sep 2016 23:17:00 +0000</pubDate>
         <link>/2016/09/19/Vintage-and-obsolete-products-Apple-Support/</link>
         <guid isPermaLink="true">/2016/09/19/Vintage-and-obsolete-products-Apple-Support/</guid>
         
@@ -113,7 +129,7 @@
 &lt;p&gt;I’m not sure what direction that will be yet -  but that’s half the fun. :)&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 19 Sep 2016 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
         <link>/2016/09/19/full-circle/</link>
         <guid isPermaLink="true">/2016/09/19/full-circle/</guid>
         
@@ -126,7 +142,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://caret.io/&quot;&gt;Caret - Premium Markdown Editor for Mac / Windows / Linux&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Sep 2016 11:17:00 -0400</pubDate>
+        <pubDate>Sun, 18 Sep 2016 11:17:00 +0000</pubDate>
         <link>/2016/09/18/Caret-Premium-Markdown-Editor-for-Mac-Windows-Linux/</link>
         <guid isPermaLink="true">/2016/09/18/Caret-Premium-Markdown-Editor-for-Mac-Windows-Linux/</guid>
         
@@ -148,7 +164,7 @@ Developers and non-developers easily collaborate on sites without stepping on ea
 
 &lt;p&gt;&lt;a href=&quot;http://cloudcannon.com/&quot;&gt;The Cloud CMS for Jekyll&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Sep 2016 00:06:00 -0400</pubDate>
+        <pubDate>Sun, 18 Sep 2016 00:06:00 +0000</pubDate>
         <link>/2016/09/18/The-Cloud-CMS-for-Jekyll-CloudCannon/</link>
         <guid isPermaLink="true">/2016/09/18/The-Cloud-CMS-for-Jekyll-CloudCannon/</guid>
         
@@ -168,7 +184,7 @@ Developers and non-developers easily collaborate on sites without stepping on ea
   &lt;p&gt;Non-developers update content visually using the CloudCannon inline editor.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sat, 17 Sep 2016 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
         <link>/2016/09/17/cloudcannon/</link>
         <guid isPermaLink="true">/2016/09/17/cloudcannon/</guid>
         
@@ -225,7 +241,7 @@ Developers and non-developers easily collaborate on sites without stepping on ea
 
 &lt;p&gt;I don’t think I can get this site any more secure or simpler and easy to read, and &lt;strong&gt;I could care less about your viewing habits&lt;/strong&gt;. You can be sure I will have no idea that you visited by using a tracker. I don’t set cookies or track you in any way.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 16 Sep 2016 00:00:00 -0400</pubDate>
+        <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
         <link>/2016/09/16/ad-blocker-not-required/</link>
         <guid isPermaLink="true">/2016/09/16/ad-blocker-not-required/</guid>
         
@@ -247,26 +263,9 @@ Developers and non-developers easily collaborate on sites without stepping on ea
 
 &lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;CloudFlare - The web performance &amp;amp; security company&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 13 Sep 2016 23:23:00 -0400</pubDate>
+        <pubDate>Tue, 13 Sep 2016 23:23:00 +0000</pubDate>
         <link>/2016/09/13/CloudFlare-The-web-performance-security-company/</link>
         <guid isPermaLink="true">/2016/09/13/CloudFlare-The-web-performance-security-company/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>iOS - iOS 10 - Apple</title>
-        <description>&lt;p&gt;Today is the day for Apple’s latest OS&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Everything you love is now even better with iOS 10, our biggest release yet. Express yourself in bold new ways in Messages. Find your route with beautifully redesigned Maps. Relive memories like never before in Photos. And use the power of Siri in more apps than ever. There’s so much to say about iOS 10&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.apple.com/ios/ios-10/&quot;&gt;iOS - iOS 10 - Apple&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 13 Sep 2016 11:54:00 -0400</pubDate>
-        <link>/2016/09/13/iOS-iOS-10-Apple/</link>
-        <guid isPermaLink="true">/2016/09/13/iOS-iOS-10-Apple/</guid>
         
         
       </item>
