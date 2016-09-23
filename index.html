@@ -1,27 +1,35 @@
 ---
 layout: default
-title: Solar Theme
+title: ramseeker
 ---
 
 {% for post in paginator.posts %}
 
 	<article class="post">
 
-		{% if post.external-url %}
+		{% if post.link %} 	<p class="meta"><span class="meta"><a class="anchor" href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%b %d, %Y" }} - link</a></span></p>
+
+		
 			<h1>
-				<a href="{{ post.external-url }}">{{ post.title }}</a>
-        <a class="anchor" href="{{ site.baseurl }}{{ post.url }}"><i class="icon-anchor"></i></a>
+		<B><a href="{{ post.link }}">{{ post.title }}  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></b>
+
+</a>
+
+</a>
 			</h1>
 		{% else %}
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		<p class="meta"><span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span></p>
+
+   <B> <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1></B>
 		{% endif %}
+
+<br>
 
 		<div class="post-content">{{ post.content }}</div>
 
 	</article>
 
 {% endfor %}
-
 
 
 {% if paginator.total_pages > 1 %}
@@ -47,3 +55,4 @@ title: Solar Theme
 
 	</div>
 {% endif %}
+

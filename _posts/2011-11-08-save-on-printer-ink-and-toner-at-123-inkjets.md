@@ -1,0 +1,87 @@
+---
+id: 4299
+title: Save on Printer Ink and Toner at 123 Inkjets
+author: adminstrator
+layout: post
+guid: http://www.ramseeker.com/?p=4299
+permalink: /2011/11/save-on-printer-ink-and-toner-at-123-inkjets/
+wpzoom_post_type:
+  - Default (no icon)
+  - Default (no icon)
+  - Default (no icon)
+wpzoom_post_template:
+  - Default
+  - Default
+  - Default
+wpzoom_post_author:
+  - Yes
+  - Yes
+  - Yes
+wpzoom_post_social:
+  - Yes
+  - Yes
+  - Yes
+newssetter_tfuse_post_options:
+  - 'a:2:{s:26:"newssetter_thumbnail_image";s:93:"http://www.ramseeker.com/wp-content/uploads/2012/05/Screen-Shot-2012-05-08-at-11.05.31-AM.png";s:24:"newssetter_disable_image";s:4:"true";}'
+  - 'a:2:{s:26:"newssetter_thumbnail_image";s:93:"http://www.ramseeker.com/wp-content/uploads/2012/05/Screen-Shot-2012-05-08-at-11.05.31-AM.png";s:24:"newssetter_disable_image";s:4:"true";}'
+  - 'a:2:{s:26:"newssetter_thumbnail_image";s:93:"http://www.ramseeker.com/wp-content/uploads/2012/05/Screen-Shot-2012-05-08-at-11.05.31-AM.png";s:24:"newssetter_disable_image";s:4:"true";}'
+post_views_count:
+  - 2
+  - 2
+  - 2
+readability_ARI:
+  - 6.5
+readability_CLI:
+  - 5.6
+readability_LIX:
+  - 26.4
+word_stats_word_count:
+  - 420
+word_stats_keywords:
+  - 's:133:"a:8:{s:7:"printer";i:14;s:4:"save";i:5;s:6:"inkjet";i:3;s:4:"like";i:4;s:4:"full";i:3;s:4:"time";i:4;s:5:"money";i:3;s:4:"just";i:3;}";'
+word_stats_cached:
+  - 1
+categories:
+  - "What's New"
+tags:
+  - cheap printer ink
+  - I hate printers
+  - printer ink can be a deal
+---
+Guess what 123 inkjets sells? You got it  &#8211; Printer Ink and Toner! and according to them you can [save up to 76 percent on ink and toners supplies][1] compared to what you would pay for the name brand inkjet refills, which can be sometimes worth more than the printer they were designed for.
+
+[  
+<img class="alignleft" style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" src="http://www.awltovhc.com/image-1548159-10471664" alt="123inkjets.com - Printer Ink, Toner, & More!" width="300" height="250" border="0" />][1]
+
+I have never had good luck with printers,  and the more I think of it the more frustrated I get. Ink for your printer is kindof like gas for the car. If you don&#8217;t have ink the printer won&#8217;t run  and if you&#8217;re like me you wait until the last second to get new ink for your printer and you end up paying full retail price.
+
+&nbsp;
+
+**With Age, Comes Wisdom**
+
+But, the older  I get the more I begin to value preventive more than reactive when it comes to solving problems and the one problem you can solve quite easily is to be sure you&#8217;ve got enough ink ahead of time. But who want&#8217;s to pay full load for printer ink so you can stick it in the drawer? You&#8217;re much better off to be prepared and one way for that to happen and  save money on printer ink is to buy your ink ahead of time &#8211; whether you&#8217;re in charge of and entire offices&#8217; full of office supplies or, like yours truly you just work out of a small office this advice still holds true.
+
+[<img class="size-full wp-image-4301 alignleft" title="The Epson NX510 has been a good printer" src="http://www.ramseeker.com/wp-content/uploads/2012/05/Screen-Shot-2012-05-08-at-11.05.31-AM.png" alt="Epson printer ink coupons" width="308" height="241" />][2]
+
+<div>
+  <span style="color: #0000ee;"><span style="text-decoration: underline;"><br /> </span></span><strong>How much can you save on printer ink? </strong>My little epson inkjet is one of the first printers I have had that actually does what it&#8217;s supposed to do and just print and copy when you need it. It&#8217;s a good little printer. But to buy ink directly from Epson will cost me about $38.00 and yet if I buy the compatible ink from 123 inkjets I&#8217;ll spend more in initial outlay, but I get 14 ink jet cartridges for just $79.00. That&#8217;s double  the savings and I never have to worry about ink for my printer for some time. I&#8217;m not a heavy printer user so I wouldn&#8217;t be surprised if I got a year or more out of my printer ink purchase.</p> 
+  
+  <p>
+    <strong>123 InkJet Coupons</strong>
+  </p>
+  
+  <p>
+    The banner above says it all, but you can save up  to 15% off compatible printer ink when you use the coupon above. Use <strong><a href="http://www.anrdoezrs.net/click-1548159-10471664">coupon code 123BLOSSOM </a> </strong>to  save money the next time you need to buy printer ink.  I hate to waste money and I&#8217;d like to think you do too.
+  </p>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <p>
+    &nbsp;
+  </p>
+</div>
+
+ [1]: http://www.anrdoezrs.net/click-1548159-10471664
+ [2]: http://www.amazon.com/gp/product/B002XISVVC/ref=as_li_ss_tl?ie=UTF8&tag=ramseeker-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002XISVVC

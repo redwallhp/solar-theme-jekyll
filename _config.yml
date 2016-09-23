@@ -1,9 +1,14 @@
-name: Solar Theme
-baseurl: /solar-theme-jekyll
-description: A stylish blog using the Solarized color palette
+name: Jim
+description: by Jim Fitzsimmons
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
-highlighter: pygments
+highlighter: rouge
+gems: [jekyll-paginate]
+
+
+ 
+
+
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
